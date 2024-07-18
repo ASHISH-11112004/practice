@@ -27,6 +27,7 @@ const Home = () => {
            register
             </Text> 
            </TouchableOpacity>
+          
            </View>
         </View>
     )
